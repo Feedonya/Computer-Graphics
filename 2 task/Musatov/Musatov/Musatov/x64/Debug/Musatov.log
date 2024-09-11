@@ -1,0 +1,23 @@
+﻿  MyForm.cpp
+C:\Users\user\Desktop\2_task\Musatov\Musatov\MyForm.h(284,12): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\2_task\Musatov\Musatov\MyForm.h(285,12): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\2_task\Musatov\Musatov\MyForm.h(292,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\2_task\Musatov\Musatov\MyForm.h(293,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\2_task\Musatov\Musatov\MyForm.h(308,22): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\2_task\Musatov\Musatov\MyForm.h(323,22): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "MyForm.cpp")
+  
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Musatov.vcxproj -> C:\Users\user\Desktop\2_task\Musatov\Musatov\x64\Debug\Musatov.exe

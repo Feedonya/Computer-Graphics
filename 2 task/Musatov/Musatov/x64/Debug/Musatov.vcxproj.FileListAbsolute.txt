@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\2_task\Musatov\Musatov\x64\Debug\Musatov.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\2_task\Musatov\Musatov\x64\Debug\Musatov.exe
