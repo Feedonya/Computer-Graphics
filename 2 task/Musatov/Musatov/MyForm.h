@@ -301,7 +301,7 @@ namespace Musatov {
 				Sx2 = Sy2 = aspectPicture < aspectWindow ? Wy2 / Vy2 : Wx2 / Vx2;
 			}
 			else {
-				Sx2 = Wx2 / Vx2;
+				Sx2 = Wx2 / Vx2 * 1.5;
 				Sy2 = Wy2 / Vy2;
 			}
 			float Ty2 = Sy2 * Vy2;
