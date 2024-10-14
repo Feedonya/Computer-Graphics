@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+C:\Users\Fedor\Desktop\Musatov\Musatov\MyForm.h(324,82): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Fedor\Desktop\Musatov\Musatov\MyForm.h(324,67): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Fedor\Desktop\Musatov\Musatov\MyForm.h(324,52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Fedor\Desktop\Musatov\Musatov\MyForm.h(493,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Fedor\Desktop\Musatov\Musatov\MyForm.h(494,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Fedor\Desktop\Musatov\Musatov\Matrix.h(75,1): warning C4172: возвращаемый адрес локальной переменной или временного 
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Musatov.vcxproj -> C:\Users\Fedor\Desktop\Musatov\Musatov\x64\Debug\Musatov.exe

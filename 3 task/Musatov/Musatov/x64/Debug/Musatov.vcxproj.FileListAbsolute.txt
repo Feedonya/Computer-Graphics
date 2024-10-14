@@ -1,0 +1,3 @@
+C:\Users\Fedor\Desktop\Musatov\Musatov\Musatov\x64\Debug\Musatov.vcxproj.AssemblyReference.cache
+C:\Users\Fedor\Desktop\Musatov\Musatov\Musatov\x64\Debug\Musatov.MyForm.resources
+C:\Users\Fedor\Desktop\Musatov\Musatov\Musatov\x64\Debug\Musatov.vcxproj.GenerateResource.cache
