@@ -7,3 +7,6 @@ C:\Users\user\Desktop\Computer-Graphics\4 task\4_lab_Musatov\Musatov\x64\Debug\M
 C:\Users\user\Desktop\Computer-Graphics\4 task\Musatov\x64\Debug\Musatov.vcxproj.AssemblyReference.cache
 C:\Users\user\Desktop\Computer-Graphics\4 task\Musatov\x64\Debug\Musatov.MyForm.resources
 C:\Users\user\Desktop\Computer-Graphics\4 task\Musatov\x64\Debug\Musatov.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\4_lab_Musatov\Musatov\x64\Debug\Musatov.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\4_lab_Musatov\Musatov\x64\Debug\Musatov.MyForm.resources
+C:\Users\user\Desktop\4_lab_Musatov\Musatov\x64\Debug\Musatov.vcxproj.GenerateResource.cache
