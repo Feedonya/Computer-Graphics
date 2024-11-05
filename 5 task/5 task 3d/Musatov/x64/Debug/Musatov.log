@@ -1,0 +1,76 @@
+﻿  MyForm.cpp
+C:\Users\user\Desktop\5 task_3d\MyForm.h(95,22): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(95,37): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(118,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(245,47): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(245,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(245,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(296,24): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(296,19): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(296,14): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(301,34): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(301,25): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(301,16): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(306,14): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(311,16): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(316,19): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(321,21): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(326,24): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(331,26): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(336,16): warning C4305: *=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(341,18): warning C4305: *=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(346,16): warning C4305: *=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(351,18): warning C4305: *=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(377,14): warning C4305: =: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\MyForm.h(378,14): warning C4305: =: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\5 task_3d\Matrix.h(133,1): warning C4172: возвращаемый адрес локальной переменной или временного 
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Musatov.vcxproj -> C:\Users\user\Desktop\5 task_3d\x64\Debug\Musatov.exe
