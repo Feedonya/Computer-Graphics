@@ -16,3 +16,6 @@ C:\Users\user\Desktop\5 task\Musatov\x64\Debug\Musatov.vcxproj.GenerateResource.
 C:\Users\user\Desktop\5 task_3d\Musatov\x64\Debug\Musatov.vcxproj.AssemblyReference.cache
 C:\Users\user\Desktop\5 task_3d\Musatov\x64\Debug\Musatov.MyForm.resources
 C:\Users\user\Desktop\5 task_3d\Musatov\x64\Debug\Musatov.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\Computer-Graphics\5 task\5 task 3d\Musatov\x64\Debug\Musatov.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\Computer-Graphics\5 task\5 task 3d\Musatov\x64\Debug\Musatov.MyForm.resources
+C:\Users\user\Desktop\Computer-Graphics\5 task\5 task 3d\Musatov\x64\Debug\Musatov.vcxproj.GenerateResource.cache

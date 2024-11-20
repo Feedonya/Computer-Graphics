@@ -1,0 +1,122 @@
+﻿  MyForm.cpp
+C:\Users\user\Desktop\Computer-Graphics\6 task\Transform.h(61,39): warning C4244: аргумент: преобразование "double" в "const float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\Transform.h(62,37): warning C4244: аргумент: преобразование "double" в "const float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(152,27): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(152,45): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(152,60): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(158,27): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(158,56): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(164,21): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(164,48): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(164,39): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(164,63): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(170,21): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(170,38): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(170,59): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(175,29): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(180,29): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(186,22): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(194,21): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(202,22): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(210,21): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(218,22): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(225,21): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(233,22): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(240,21): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(280,24): warning C4305: -=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(282,29): warning C4305: +=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(286,28): warning C4305: -=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(288,10): warning C4305: +=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(292,30): warning C4305: -=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(294,13): warning C4305: +=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(299,19): warning C4305: -=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(303,19): warning C4305: +=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(309,21): warning C4305: -=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(312,20): warning C4305: +=: усечение из "double" в "float"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(363,83): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(363,68): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(363,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(429,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\MyForm.h(485,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\user\Desktop\Computer-Graphics\6 task\Matrix.h(190,1): warning C4172: возвращаемый адрес локальной переменной или временного 
+C:\Users\user\Desktop\Computer-Graphics\6 task\Matrix.h(250,1): warning C4172: возвращаемый адрес локальной переменной или временного 
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Musatov.vcxproj -> C:\Users\user\Desktop\Computer-Graphics\6 task\x64\Debug\Musatov.exe

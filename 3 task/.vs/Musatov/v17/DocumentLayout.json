@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Computer-Graphics\\3 task\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59CC11AD-880E-4193-A5BD-602B8741CE91}|Musatov\\Musatov.vcxproj|C:\\Users\\user\\Desktop\\Computer-Graphics\\3 task\\Musatov\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59CC11AD-880E-4193-A5BD-602B8741CE91}|Musatov\\Musatov.vcxproj|solutionrelative:Musatov\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CC11AD-880E-4193-A5BD-602B8741CE91}|Musatov\\Musatov.vcxproj|C:\\Users\\user\\Desktop\\Computer-Graphics\\3 task\\Musatov\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{59CC11AD-880E-4193-A5BD-602B8741CE91}|Musatov\\Musatov.vcxproj|solutionrelative:Musatov\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Computer-Graphics\\3 task\\Musatov\\MyForm.h",
+              "RelativeDocumentMoniker": "Musatov\\MyForm.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Computer-Graphics\\3 task\\Musatov\\MyForm.h",
+              "RelativeToolTip": "Musatov\\MyForm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T13:41:34.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Computer-Graphics\\3 task\\Musatov\\MyForm.h",
+              "RelativeDocumentMoniker": "Musatov\\MyForm.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Computer-Graphics\\3 task\\Musatov\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Musatov\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T13:41:31.502Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
