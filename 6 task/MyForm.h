@@ -185,7 +185,7 @@ namespace Musatov {
 			if (Control::ModifierKeys == Keys::Shift) {
 				mat4 M = rotateP(0.1, vec3(1, 0, 0), vec3(0, 0, -dist)); // матрица вращения относительно точки P
 				vec3 u_new = mat3(M) * vec3(0, 1, 0); // вращение направления вверх
-				vec3 S_new = normalize(M * vec4(0, 0, 0, 1)); // вращение начала координат
+				vec3 S_new = normalize(M * vec4(0, 0, 0, 1)); // вращение начала координат //7
 				// переход к СКН в которой начало координат в новой точке, а направление
 				// наблюдения - в точку P
 				T = lookAt(S_new, vec3(0, 0, -dist), u_new) * T;

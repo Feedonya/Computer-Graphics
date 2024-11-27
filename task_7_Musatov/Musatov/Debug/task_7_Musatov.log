@@ -1,0 +1,20 @@
+﻿  Main.cpp
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(202,25): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(268,27): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(287,27): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(306,27): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(325,27): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(375,24): warning C4305: -=: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(378,28): warning C4305: +=: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(383,28): warning C4305: -=: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(386,10): warning C4305: +=: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(391,30): warning C4305: -=: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(394,13): warning C4305: +=: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(400,19): warning C4305: -=: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(405,19): warning C4305: +=: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(412,21): warning C4305: -=: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(416,20): warning C4305: +=: усечение из "double" в "float"
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(470,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(673,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Main.cpp(680,22): warning C4018: <: несоответствие типов со знаком и без знака
+  task_7_Musatov.vcxproj -> C:\Users\user\Desktop\Computer-Graphics\task_7_Musatov\Debug\Musatov.exe

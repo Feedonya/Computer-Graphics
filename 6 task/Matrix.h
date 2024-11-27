@@ -354,5 +354,5 @@ float length(vec3 p) {
 	return sqrtf(dot(p, p)); //2
 }
 vec3 norm(vec3 p) { // нормализация вектора p
-	return normalize(vec4(p, length(p)));
+	return normalize(vec4(p, length(p))); //3
 }
